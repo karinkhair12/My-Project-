@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karina Khairan
-- 👀 I’m interested in Geographic Information System and Remote Sensing
-- 🌱 I’m currently learning Data Science, Data Analyst, and Business Analyst
-- 💞️ I’m looking to collaborate on Remote Working Project in GIS Specialist and Data Science
+- 👀 I’m interested in Geographic Information System, Remote Sensing and Mapping
+- 🌱 I’m currently learning Data Science, Data Analyst and Business Analyst
+- 💞️ I’m looking to collaborate on Remote Working Project in Mapping, GIS and Remote Sensing Specialist and Data Science
 - 📫 Reach me at karinakhairan12@gmail.com or https://www.linkedin.com/in/karina-khairan/
 
 <!---
